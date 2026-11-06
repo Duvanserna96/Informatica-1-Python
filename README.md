@@ -6,12 +6,13 @@ Ejercicios y proyectos de Informática 1 - Universidad de Antioquia.
 
 - **[Biblioteca](biblioteca/):** programa con menú para registrar libros, consultar precios, buscar por autor y mostrar préstamos y los tres libros más costosos. Consulta el **[README de biblioteca](biblioteca/README.md)** para conocer su funcionamiento y cómo ejecutarlo.
 - **[Picas y Fijas](Picas_fijas/):** juego de consola para adivinar un número de cuatro dígitos distintos usando pistas de picas y fijas. Consulta el **[README de Picas y Fijas](Picas_fijas/README.md)** para ver las reglas y los pasos de ejecución.
+- **[Es agresiva](es_agresiva/):** ejercicio que cuenta las frases introducidas que coinciden con un diccionario de frases agresivas. Consulta el **[README de Es agresiva](es_agresiva/README.md)** para preparar el diccionario y ejecutarlo.
 - **[Cifrado César](cifrado_cesar.py):** ejercicio de cifrado César en Python.
 - **[Palíndromos](palindromos.py):** ejercicio sobre palíndromos en Python.
 
 ## Ejecución
 
-Los ejercicios requieren **Python 3** y no necesitan paquetes adicionales. Para Biblioteca y Picas y Fijas, sigue las instrucciones del README correspondiente.
+Los ejercicios requieren **Python 3** y no necesitan paquetes adicionales. Para Biblioteca, Picas y Fijas y Es agresiva, sigue las instrucciones del README correspondiente.
 
 Para Cifrado César y Palíndromos, descarga y extrae el repositorio o clónalo con Git. Abre una terminal en la **carpeta principal del repositorio**, donde están `cifrado_cesar.py` y `palindromos.py`.
 
